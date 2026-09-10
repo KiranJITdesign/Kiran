@@ -8,7 +8,7 @@
 </p>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-kiran)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-kiran-13a125336/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/kiranklick)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange.svg?logo=leetcode&logoColor=white)](https://leetcode.com/soudrikiran)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soudrikiran@gmail.com)
